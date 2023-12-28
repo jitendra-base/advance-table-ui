@@ -1,0 +1,38 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.salary-table {
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+.salary-table td {
+    border: 1px solid black;
+}
+
+.srno {
+    width: 50px;
+}
+.role {
+    width: 300px;
+}
+.collspan {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px 0;
+}
+.experience {
+    width: 180px;
+    padding: 10px 0;
+}
+
+.c2 {
+    background-image: linear-gradient(to right top, #09033d, #2c013a, #420034, #52002c, #5e0523);
+    color: white;
+    text-align: center;
+}
+
+.role-salaries {
+    text-align: center;
+}
